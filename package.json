@@ -1,7 +1,7 @@
 {
-  "name": "hvs-template",
+  "name": "foundry-temps",
   "version": "1.0.0",
-  "description": "",
+  "description": "Software for monitoring temperatures",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
